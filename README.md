@@ -1,2 +1,2 @@
 # fastai_wildflower
-Deep learning-based app to identify common California wildflowers
+Deep learning-based app to identify common California wildflowers. Can be used at https://huggingface.co/spaces/RohanS14/fastai_wildflower
